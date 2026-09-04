@@ -1,0 +1,8 @@
+torch
+datasets
+matplotlib
+scikit-learn
+numpy
+math
+re
+time
