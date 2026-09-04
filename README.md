@@ -32,7 +32,7 @@ python -m venv .venv
 .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-python 05_self_attention_text.py
+python self_attention_text.py
 ```
 
 AG News is downloaded or prepared by the script as required. The generated visualizations are saved in the project directory.
